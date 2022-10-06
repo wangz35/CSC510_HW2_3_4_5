@@ -6,6 +6,7 @@
 ![Supports Python](https://img.shields.io/pypi/pyversions/pytest)
 [![GitHub Release](https://img.shields.io/github/release/yagmurbbayraktar/CSC510_HW2_3_4_5.svg)](https://github.com/yagmurbbayraktar/CSC510_HW2_3_4_5/releases)
 [![GitHub issues](https://img.shields.io/github/issues/yagmurbbayraktar/CSC510_HW2_3_4_5)](https://github.com/yagmurbbayraktar/CSC510_HW2_3_4_5/issues)
+[![codecov](https://codecov.io/gh/wangz35/CSC510_HW2_3_4_5/branch/main/graph/badge.svg?token=NT6CI9DGSQ)](https://codecov.io/gh/wangz35/CSC510_HW2_3_4_5)
 
 # CSC510_HW2_3_4_5
 Repository of CSC510 Homework 2, 3, 4, 5 of Group 39
