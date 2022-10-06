@@ -13,7 +13,7 @@ jobs:
     - name: Generate report
       run: |
         pip install coverage
-        cd tests
+        cd test
         coverage run test_all.py
         coverage xml
     - name: Upload coverage to Codecov
